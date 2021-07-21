@@ -25,18 +25,18 @@ Maintained by @kasu_bro 🇱🇰
             [
                 [
                     InlineKeyboardButton(
-                        "Bot Commands", url="https://t.me/epusthakalayabots_chat/6",
+                        "🎛 Bot Commands 🎛", url="https://telegra.ph/GLOBAL-MUSIC-BOT-07-21",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/epusthakalayabots_chat"
+                        "🎵 Music Group 🎵", url="https://t.me/GlobalMusic_1"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/epusthakalaya_bots"
+                        "📣 Bot Channel 📣", url="https://t.me/epusthakalaya_bots"
                     ),
                     InlineKeyboardButton(
-                        "😍 Dev", url="https://t.me/kasu_bro"
+                        "🎓 Dev 🎓", url="https://t.me/kasu_bro"
                     )
                 ],
             ]
@@ -54,7 +54,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/epusthakalaya_bots"
+                        "📣 Bot Channel 📣", url="https://t.me/epusthakalaya_bots"
                     )
                 ],    
                 [    
@@ -103,7 +103,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/epusthakalaya_bots"
+                        "📣 Bot Channel 📣", url="https://t.me/epusthakalaya_bots"
                     )
                 ]
             ]
