@@ -30,13 +30,18 @@ Maintained by @kasu_bro 🇱🇰
                 ],
                 [
                     InlineKeyboardButton(
-                        "🎵 Music Group 🎵", url="https://t.me/GlobalMusic_1"
+                        "🎵 Group 🎵", url="https://t.me/GlobalMusic_1"
                     ),
                     InlineKeyboardButton(
-                        "📣 Bot Channel 📣", url="https://t.me/epusthakalaya_bots"
+                        "🎧 Channel 🎧", url="https://t.me/Global_Music_GM"
                     ),
                     InlineKeyboardButton(
                         "🎓 Dev 🎓", url="https://t.me/kasu_bro"
+                    )
+                ],
+                [
+                    InlineKeyboardButton(
+                        "⚜️ ADD ME ⚜️", url="http://t.me/EmmaMusicBot?startgroup=true"
                     )
                 ],
             ]
