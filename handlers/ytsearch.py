@@ -32,6 +32,7 @@ async def ytsearch(_, message: Message):
             text += f"Views - {results[i]['views']}\n"
             text += f"Channel - {results[i]['channel']}\n"
             text += f"https://youtube.com{results[i]['url_suffix']}\n\n"
+            text += f"🎵 Uploaded by - Global Music"
             i += 1
         await m.edit(text, disable_web_page_preview=True)
     except Exception as e:
