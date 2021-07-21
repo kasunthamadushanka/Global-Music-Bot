@@ -1,4 +1,4 @@
-
+# GLOBAL MUSIC BOT
 
 <p align="center">
   <img src="https://telegra.ph/file/cda084c19e69069f5e0ec.jpg">
@@ -10,7 +10,7 @@ The easiest way to deploy this Bot
 
 Get STRING_NAME from here:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://t.me/epu_stringsessionegneratorbot)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-blue)](https://t.me/epu_stringsessionegneratorbot)
 
 ### Mandatory Vars.
 
